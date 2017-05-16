@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/skys/AndroidStudioProjects/HuasTools/OneSDK/src/main/assets"/><source path="/Users/skys/AndroidStudioProjects/HuasTools/OneSDK/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/skys/AndroidStudioProjects/HuasTools/OneSDK/src/debug/assets"/></dataSet></merger>
